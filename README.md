@@ -12,3 +12,6 @@ Open source XBOX 360 NAND flasher firmware based on Raspberry Pi Pico
 | GP20  |  SMC_DBG_EN |
 | GP21  | SMC_RST_XDK_N  |
 | GND  |  GND |
+
+### Phat Wiring Diagram
+![Phat Wiring Diagram](.github/img/diagram%20phat.png)
